@@ -17,16 +17,18 @@ The data is provided as is, without any liability. We only collect and organise 
 - [izirento-eu-rent-index](https://github.com/izirento/izirento-eu-rent-index): rent price change for the 27 EU member states from Eurostat
 - [izirento-uk-rent-index](https://github.com/izirento/izirento-uk-rent-index): United Kingdom rent index by area ([page on izirento.com](https://izirento.com/en-gb/research/data/uk-rents-and-landlord-duties-index))
 
-## Country repositories (32)
+## Country repositories (38)
 
 | Country | Region | Repository | Facts (rows) |
 | --- | --- | --- | --- |
+| Argentina | South America | [izirento-argentina-rent-index](https://github.com/izirento/izirento-argentina-rent-index) | 8 |
 | Armenia | CIS | [izirento-armenia-rent-index](https://github.com/izirento/izirento-armenia-rent-index) | 9 |
 | Australia | Oceania | [izirento-australia-rent-index](https://github.com/izirento/izirento-australia-rent-index) | 16 |
 | Azerbaijan | CIS | [izirento-azerbaijan-rent-index](https://github.com/izirento/izirento-azerbaijan-rent-index) | 6 |
 | Bahrain | Middle East | [izirento-bahrain-rent-index](https://github.com/izirento/izirento-bahrain-rent-index) | 8 |
 | Belgium | EU | [izirento-belgium-rent-index](https://github.com/izirento/izirento-belgium-rent-index) | 22 |
 | Canada | North America | [izirento-canada-rent-index](https://github.com/izirento/izirento-canada-rent-index) | 18 |
+| Chile | South America | [izirento-chile-rent-index](https://github.com/izirento/izirento-chile-rent-index) | 9 |
 | Czechia | EU | [izirento-czechia-rent-index](https://github.com/izirento/izirento-czechia-rent-index) | 9 |
 | Denmark | EU | [izirento-denmark-rent-index](https://github.com/izirento/izirento-denmark-rent-index) | 6 |
 | Estonia | EU | [izirento-estonia-rent-index](https://github.com/izirento/izirento-estonia-rent-index) | 7 |
@@ -36,10 +38,12 @@ The data is provided as is, without any liability. We only collect and organise 
 | Germany | EU | [izirento-germany-rent-index](https://github.com/izirento/izirento-germany-rent-index) | 11 |
 | Ireland | EU | [izirento-ireland-rent-index](https://github.com/izirento/izirento-ireland-rent-index) | 7 |
 | Italy | EU | [izirento-italy-rent-index](https://github.com/izirento/izirento-italy-rent-index) | 8 |
+| Japan | Asia | [izirento-japan-rent-index](https://github.com/izirento/izirento-japan-rent-index) | 9 |
 | Kazakhstan | CIS | [izirento-kazakhstan-rent-index](https://github.com/izirento/izirento-kazakhstan-rent-index) | 8 |
 | Latvia | EU | [izirento-latvia-rent-index](https://github.com/izirento/izirento-latvia-rent-index) | 7 |
 | Luxembourg | EU | [izirento-luxembourg-rent-index](https://github.com/izirento/izirento-luxembourg-rent-index) | 8 |
 | Malta | EU | [izirento-malta-rent-index](https://github.com/izirento/izirento-malta-rent-index) | 7 |
+| Mexico | North America | [izirento-mexico-rent-index](https://github.com/izirento/izirento-mexico-rent-index) | 8 |
 | Netherlands | EU | [izirento-netherlands-rent-index](https://github.com/izirento/izirento-netherlands-rent-index) | 9 |
 | New Zealand | Oceania | [izirento-new-zealand-rent-index](https://github.com/izirento/izirento-new-zealand-rent-index) | 8 |
 | Oman | Middle East | [izirento-oman-rent-index](https://github.com/izirento/izirento-oman-rent-index) | 8 |
@@ -47,8 +51,10 @@ The data is provided as is, without any liability. We only collect and organise 
 | Portugal | EU | [izirento-portugal-rent-index](https://github.com/izirento/izirento-portugal-rent-index) | 11 |
 | Qatar | Middle East | [izirento-qatar-rent-index](https://github.com/izirento/izirento-qatar-rent-index) | 12 |
 | Saudi Arabia | Middle East | [izirento-saudi-arabia-rent-index](https://github.com/izirento/izirento-saudi-arabia-rent-index) | 7 |
+| Singapore | Asia | [izirento-singapore-rent-index](https://github.com/izirento/izirento-singapore-rent-index) | 5 |
 | Slovakia | EU | [izirento-slovakia-rent-index](https://github.com/izirento/izirento-slovakia-rent-index) | 8 |
 | Slovenia | EU | [izirento-slovenia-rent-index](https://github.com/izirento/izirento-slovenia-rent-index) | 9 |
+| South Korea | Asia | [izirento-south-korea-rent-index](https://github.com/izirento/izirento-south-korea-rent-index) | 8 |
 | Spain | EU | [izirento-spain-rent-index](https://github.com/izirento/izirento-spain-rent-index) | 8 |
 | Sweden | EU | [izirento-sweden-rent-index](https://github.com/izirento/izirento-sweden-rent-index) | 6 |
 | United Arab Emirates (Dubai) | Middle East | [izirento-uae-rent-index](https://github.com/izirento/izirento-uae-rent-index) | 6 |
@@ -82,7 +88,8 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 
 - **Other EU member states:** None. Every EU member state is either a repository above or in the skipped list.
 - **Canada:** Quebec and the other provinces and territories (see the Canada repository).
-- **Rest of the world:** Being added in batches: Japan, Korea and Singapore next, then Mexico and South America, the Caribbean and island states, other Asia, USA by state and Africa where official data exists.
+- **Mexico:** States other than Mexico City (see the Mexico repository).
+- **Rest of the world:** Being added in batches: Colombia, Peru and other South America, the Caribbean and island states, other Asia (India, Thailand, Malaysia and others), USA by state and Africa where official data exists.
 - **Middle East:** Other UAE emirates.
 
 New countries are added as separate repositories named `izirento-<country>-rent-index`.
