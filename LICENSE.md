@@ -27,6 +27,7 @@ Anyone reusing this compilation must credit IziRento (Leonid Gorok, https://izir
    - Kazakhstan: Adilet legal information system (Ministry of Justice of Kazakhstan)
    - Ireland: Eurostat; Residential Tenancies Board (RTB)
    - Finland: Eurostat; Finlex (Ministry of Justice, Finland)
+   - Saudi Arabia: Real Estate General Authority (REGA), Saudi Arabia
 
 3. No logos, personal data or third-party artwork are included.
 
