@@ -40,6 +40,7 @@ Anyone reusing this compilation must credit IziRento (Leonid Gorok, https://izir
    - Slovakia: Eurostat; Slov-Lex (Ministry of Justice of the Slovak Republic)
    - Bahrain: Legislation and Legal Opinion Commission (Kingdom of Bahrain)
    - Oman: Qanoon.om (Oman legal portal, consolidated text)
+   - Azerbaijan: Official Legal Acts Database of the Republic of Azerbaijan (e-qanun.az, Ministry of Justice)
 
 3. No logos, personal data or third-party artwork are included.
 
