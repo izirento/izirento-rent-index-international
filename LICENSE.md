@@ -28,6 +28,7 @@ Anyone reusing this compilation must credit IziRento (Leonid Gorok, https://izir
    - Ireland: Eurostat; Residential Tenancies Board (RTB)
    - Finland: Eurostat; Finlex (Ministry of Justice, Finland)
    - Saudi Arabia: Real Estate General Authority (REGA), Saudi Arabia
+   - Czechia: Collection of Laws portal (Zákony pro lidi); Eurostat
 
 3. No logos, personal data or third-party artwork are included.
 
