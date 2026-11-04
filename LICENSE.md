@@ -34,6 +34,7 @@ Anyone reusing this compilation must credit IziRento (Leonid Gorok, https://izir
    - Uzbekistan: Lex.uz, National Database of Legislation of Uzbekistan
    - Luxembourg: Eurostat; Legilux (Journal officiel du Grand-Duché de Luxembourg)
    - Denmark: Eurostat; Retsinformation (Danish Ministry of Justice)
+   - Estonia: Eurostat; Ministry of Justice and Digital Affairs of Estonia
 
 3. No logos, personal data or third-party artwork are included.
 
