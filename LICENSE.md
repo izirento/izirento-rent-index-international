@@ -32,6 +32,7 @@ Anyone reusing this compilation must credit IziRento (Leonid Gorok, https://izir
    - Sweden: Eurostat; Swedish Parliament (Riksdagen)
    - Georgia: Legislative Herald of Georgia (Matsne)
    - Uzbekistan: Lex.uz, National Database of Legislation of Uzbekistan
+   - Luxembourg: Eurostat; Legilux (Journal officiel du Grand-Duché de Luxembourg)
 
 3. No logos, personal data or third-party artwork are included.
 
