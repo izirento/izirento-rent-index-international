@@ -21,6 +21,7 @@ The data is provided as is, without any liability. We only collect and organise 
 | Germany | EU | 11 | [`DE/`](DE/) |
 | France | EU | 11 | [`FR/`](FR/) |
 | Spain | EU | 8 | [`ES/`](ES/) |
+| Italy | EU | 8 | [`IT/`](IT/) |
 
 Dubai is the only UAE emirate covered, because rent law is set emirate by emirate.
 

@@ -20,6 +20,7 @@ Anyone reusing this compilation must credit IziRento (Leonid Gorok, https://izir
    - Germany: Eurostat; Federal Ministry of Justice / juris
    - France: Eurostat; Service-Public (Prime Minister / DILA)
    - Spain: Boletín Oficial del Estado (BOE); Eurostat
+   - Italy: Eurostat; Gazzetta Ufficiale; Parlamento italiano; Parlamento italiano; Gazzetta Ufficiale
 
 3. No logos, personal data or third-party artwork are included.
 
