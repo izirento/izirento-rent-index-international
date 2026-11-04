@@ -27,6 +27,7 @@ The data is provided as is, without any liability. We only collect and organise 
 | United Arab Emirates (Dubai) | Middle East | 6 | [`AE/`](AE/) |
 | Kazakhstan | CIS | 8 | [`KZ/`](KZ/) |
 | Ireland | EU | 7 | [`IE/`](IE/) |
+| Finland | EU | 7 | [`FI/`](FI/) |
 
 Dubai is the only UAE emirate covered, because rent law is set emirate by emirate.
 
