@@ -1,8 +1,8 @@
 {
-  "title": "International rent and landlord rules index 2026",
+  "title": "International rent and landlord rules: catalog",
   "upload_type": "dataset",
   "version": "1.0",
-  "description": "Open, source-linked data on residential rent and landlord rules outside the UK: security deposits, rent increases, termination notice, lease terms, registration and energy certificates, with a primary-source link for every value. This release covers: Germany, France, Spain, Italy, Netherlands, Poland, United Arab Emirates (Dubai), Kazakhstan, Ireland, Finland, Saudi Arabia, Czechia, Sweden, Georgia, Uzbekistan, Luxembourg, Denmark, Estonia, Latvia, Malta, Slovakia, Bahrain, Oman, Azerbaijan, Armenia, Slovenia, Portugal. It also holds the Eurostat rent price change (HICP actual rentals for housing) for the 27 EU member states. Every value is cited to a law on an official legal portal, a government service page or a statistics office dataset; cells are empty where no verified figure was found. The data is provided as is, without any liability; check each value against its primary source. Project: https://izirento.com",
+  "description": "Catalog of country repositories with open, source-linked data on residential rent and landlord rules. Provided as is, without any liability. Project: https://izirento.com",
   "creators": [
     {
       "name": "Gorok, Leonid",
@@ -14,15 +14,7 @@
   "language": "eng",
   "keywords": [
     "rent",
-    "rental market",
-    "landlord obligations",
-    "tenancy law",
-    "security deposit",
-    "rent regulation",
     "open data",
-    "European Union",
-    "Middle East",
-    "CIS",
     "housing"
   ],
   "related_identifiers": [

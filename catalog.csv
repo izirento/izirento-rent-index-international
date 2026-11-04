@@ -1,0 +1,29 @@
+country,region,repository_url,facts_rows,checked_on
+Armenia,CIS,https://github.com/izirento/izirento-armenia-rent-index,9,2026-11-04
+Azerbaijan,CIS,https://github.com/izirento/izirento-azerbaijan-rent-index,6,2026-11-04
+Bahrain,Middle East,https://github.com/izirento/izirento-bahrain-rent-index,8,2026-11-04
+Czechia,EU,https://github.com/izirento/izirento-czechia-rent-index,9,2026-11-04
+Denmark,EU,https://github.com/izirento/izirento-denmark-rent-index,6,2026-11-04
+Estonia,EU,https://github.com/izirento/izirento-estonia-rent-index,7,2026-11-04
+Finland,EU,https://github.com/izirento/izirento-finland-rent-index,7,2026-11-04
+France,EU,https://github.com/izirento/izirento-france-rent-index,11,2026-11-04
+Georgia,CIS,https://github.com/izirento/izirento-georgia-rent-index,7,2026-11-04
+Germany,EU,https://github.com/izirento/izirento-germany-rent-index,11,2026-11-04
+Ireland,EU,https://github.com/izirento/izirento-ireland-rent-index,7,2026-11-04
+Italy,EU,https://github.com/izirento/izirento-italy-rent-index,8,2026-11-04
+Kazakhstan,CIS,https://github.com/izirento/izirento-kazakhstan-rent-index,8,2026-11-04
+Latvia,EU,https://github.com/izirento/izirento-latvia-rent-index,7,2026-11-04
+Luxembourg,EU,https://github.com/izirento/izirento-luxembourg-rent-index,8,2026-11-04
+Malta,EU,https://github.com/izirento/izirento-malta-rent-index,7,2026-11-04
+Netherlands,EU,https://github.com/izirento/izirento-netherlands-rent-index,9,2026-11-04
+Oman,Middle East,https://github.com/izirento/izirento-oman-rent-index,8,2026-11-04
+Poland,EU,https://github.com/izirento/izirento-poland-rent-index,8,2026-11-04
+Portugal,EU,https://github.com/izirento/izirento-portugal-rent-index,11,2026-11-04
+Qatar,Middle East,https://github.com/izirento/izirento-qatar-rent-index,12,2026-11-04
+Saudi Arabia,Middle East,https://github.com/izirento/izirento-saudi-arabia-rent-index,7,2026-11-04
+Slovakia,EU,https://github.com/izirento/izirento-slovakia-rent-index,8,2026-11-04
+Slovenia,EU,https://github.com/izirento/izirento-slovenia-rent-index,9,2026-11-04
+Spain,EU,https://github.com/izirento/izirento-spain-rent-index,8,2026-11-04
+Sweden,EU,https://github.com/izirento/izirento-sweden-rent-index,6,2026-11-04
+United Arab Emirates (Dubai),Middle East,https://github.com/izirento/izirento-uae-rent-index,6,2026-11-04
+Uzbekistan,CIS,https://github.com/izirento/izirento-uzbekistan-rent-index,5,2026-11-04
