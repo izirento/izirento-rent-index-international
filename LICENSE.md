@@ -22,6 +22,7 @@ Anyone reusing this compilation must credit IziRento (Leonid Gorok, https://izir
    - Spain: Boletín Oficial del Estado (BOE); Eurostat
    - Italy: Eurostat; Gazzetta Ufficiale; Parlamento italiano; Parlamento italiano; Gazzetta Ufficiale
    - Netherlands: Eurostat; Overheid.nl (Wettenbank); Rijksoverheid.nl
+   - Poland: Eurostat; Polish Government Legislation Portal (ELI)
 
 3. No logos, personal data or third-party artwork are included.
 

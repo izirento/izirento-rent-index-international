@@ -7,7 +7,7 @@ Open, source-linked data on residential rent and landlord obligations for countr
 - Author: Leonid Gorok
 - Project site: [izirento.com](https://izirento.com)
 - Related on izirento.com: [UK Rent & Landlord Obligations Index 2026](https://izirento.com/en-gb/research/data/uk-rents-and-landlord-duties-index)
-- Localised home pages: [Germany · Deutsch](https://izirento.com/de-de)
+- Localised home pages: [Germany · Deutsch](https://izirento.com/de-de), [Poland · Polski](https://izirento.com/pl-pl)
 - Licence: CC BY 4.0 for the compilation (see [`LICENSE`](LICENSE) and [`LICENSE.md`](LICENSE.md)). The underlying laws and official statistics are cited, not copied.
 
 ## Disclaimer
@@ -23,6 +23,7 @@ The data is provided as is, without any liability. We only collect and organise 
 | Spain | EU | 8 | [`ES/`](ES/) |
 | Italy | EU | 8 | [`IT/`](IT/) |
 | Netherlands | EU | 9 | [`NL/`](NL/) |
+| Poland | EU | 8 | [`PL/`](PL/) |
 
 Dubai is the only UAE emirate covered, because rent law is set emirate by emirate.
 
