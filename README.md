@@ -26,13 +26,22 @@ The data is provided as is, without any liability. We only collect and organise 
 | Poland | EU | 8 | [`PL/`](PL/) |
 | United Arab Emirates (Dubai) | Middle East | 6 | [`AE/`](AE/) |
 | Kazakhstan | CIS | 8 | [`KZ/`](KZ/) |
+| Ireland | EU | 7 | [`IE/`](IE/) |
 
 Dubai is the only UAE emirate covered, because rent law is set emirate by emirate.
 
+## Countries skipped
+
+| Country | Reason |
+| --- | --- |
+| Qatar | The official legal portal (almeezan.qa) blocks automated access, so the text of Law No. 4 of 2008 could not be read from a primary source. Only secondary commentary was available. |
+| Israel | The Knesset and gov.il pages carrying the Rental and Loan Law amendments could not be read (access refused to automated requests), so no value could be confirmed from a primary source. |
+| Austria | The official legal portal (RIS) answers automated requests with a security check, so the Tenancy Act (MRG) could not be read from a primary source. |
+
 ## Countries not yet covered
 
-- **Other EU member states:** Belgium, Bulgaria, Czechia, Denmark, Estonia, Ireland, Greece, Croatia, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, Austria, Portugal, Romania, Slovenia, Slovakia, Finland, Sweden. Rent price change for all of them is already in `eu27_rent_price_change_eurostat.csv`; legal rules are added as they are verified.
-- **Middle East:** Saudi Arabia, Qatar, Israel, Bahrain, Kuwait, Oman, Jordan; other UAE emirates.
+- **Other EU member states:** Belgium (rent law is regional), Bulgaria, Denmark, Estonia, Greece, Croatia, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, Portugal, Romania, Slovenia, Slovakia. Rent price change for all EU states is in `eu27_rent_price_change_eurostat.csv`; legal rules are added as they are verified.
+- **Middle East:** Bahrain, Kuwait, Oman, Jordan; other UAE emirates.
 - **CIS and former USSR:** Armenia, Azerbaijan, Georgia, Kyrgyzstan, Uzbekistan, Tajikistan, Turkmenistan, Moldova, Ukraine.
 
 ## Files
