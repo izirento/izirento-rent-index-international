@@ -31,6 +31,7 @@ The data is provided as is, without any liability. We only collect and organise 
 | Saudi Arabia | Middle East | 7 | [`SA/`](SA/) |
 | Czechia | EU | 9 | [`CZ/`](CZ/) |
 | Sweden | EU | 6 | [`SE/`](SE/) |
+| Georgia | CIS | 7 | [`GE/`](GE/) |
 
 Dubai is the only UAE emirate covered, because rent law is set emirate by emirate.
 
@@ -46,7 +47,7 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 
 - **Other EU member states:** Belgium (rent law is regional), Bulgaria, Denmark, Estonia, Greece, Croatia, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, Portugal, Romania, Slovenia, Slovakia. Rent price change for all EU states is in `eu27_rent_price_change_eurostat.csv`; legal rules are added as they are verified.
 - **Middle East:** Bahrain, Kuwait, Oman, Jordan; other UAE emirates.
-- **CIS and former USSR:** Armenia, Azerbaijan, Georgia, Kyrgyzstan, Uzbekistan, Tajikistan, Turkmenistan, Moldova, Ukraine.
+- **CIS and former USSR:** Armenia, Azerbaijan, Kyrgyzstan, Tajikistan, Turkmenistan, Moldova, Ukraine.
 
 ## Files
 
