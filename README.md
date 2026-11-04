@@ -55,12 +55,25 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 | Qatar | The official legal portal (almeezan.qa) blocks automated access, so the text of Law No. 4 of 2008 could not be read from a primary source. Only secondary commentary was available. |
 | Israel | The Knesset and gov.il pages carrying the Rental and Loan Law amendments could not be read (access refused to automated requests), so no value could be confirmed from a primary source. |
 | Austria | The official legal portal (RIS) answers automated requests with a security check, so the Tenancy Act (MRG) could not be read from a primary source. |
+| Kuwait | No official consolidated text of Decree-Law No. 35 of 1978 (amended by Laws 15/2020 and 95/2024) could be read; only law-firm and commercial legal-database copies were found, so no value was confirmed from a primary source. |
+| Jordan | No official consolidated text of the Landlords and Tenants Law No. 11 of 1994 including its later amendments could be read from the legislation bureau or Ministry of Justice; the copy found is a Bar Association file that does not show the latest amendments. |
+| Kyrgyzstan | The official legal database (cbd.minjust.gov.kg) requires a captcha and returned no text to automated access, so the Civil Code and Housing Code could not be read from a primary source. |
+| Tajikistan | The official legal portal (adlia.tj) did not respond to requests, so no primary-source text could be read. |
+| Turkmenistan | The Housing Code on the government portal covers allocation and lease of the state housing fund only; the rules for private residential rentals (Civil Code) could not be located in a readable official text. |
+| Moldova | The official legal register (legis.md) refuses automated access; the e-lex.md portal states that it is a demo version that may contain errors, so no value was confirmed from a reliable primary text. |
+| Ukraine | The official Verkhovna Rada portal (zakon.rada.gov.ua) does not respond to requests from the non-Ukrainian network used for this work, and Ukrainian IP addresses are not used, so the Civil Code could not be read from a primary source. |
+| Croatia | Only the amending act of 2018 (NN 68/2018) could be read from the official gazette; a consolidated text of the Act on Lease of Flats was not available from a primary source, and its protected-rent provisions apply to a special category of tenancies. |
+| Lithuania | The official legal register (e-seimas.lrs.lt) shows a bot-verification page to automated requests, so the Civil Code lease chapter could not be read. |
+| Greece | The tax authority (AADE) and public revenue pages could not be read in full, and no official consolidated text of the residential lease rules (Civil Code and Law 4242/2014) was available in readable form. |
+| Bulgaria | The legal database reached (lex.bg) is not an official source and denied access; the State Gazette text of the Obligations and Contracts Act was not read. |
+| Romania | The official legislation portal (legislatie.just.ro) returned no text to automated requests. |
+| Hungary | The official legal database (njt.hu) returned no text to automated requests, and the Civil Code lease chapters were not read. |
+| Cyprus | The Rent Control Law text on the official-law site (cylaw.org) could not be read in a usable form (the version obtained did not contain readable lease provisions). |
 
 ## Countries not yet covered
 
-- **Other EU member states:** Belgium (rent law is regional), Bulgaria, Greece, Croatia, Cyprus, Lithuania, Hungary, Romania. Rent price change for all EU states is in `eu27_rent_price_change_eurostat.csv`; legal rules are added as they are verified.
-- **Middle East:** Kuwait, Jordan; other UAE emirates.
-- **CIS and former USSR:** Kyrgyzstan, Tajikistan, Turkmenistan, Moldova, Ukraine.
+- **Other EU member states:** Belgium (rent law is regional). Rent price change for all EU states is in `eu27_rent_price_change_eurostat.csv`; legal rules are added as they are verified.
+- **Middle East:** Other UAE emirates.
 
 ## Files
 
