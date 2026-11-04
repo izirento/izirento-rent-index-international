@@ -6,7 +6,7 @@ Every row of `IT_rent_landlord_rules.csv` cites a primary source. Facts were rea
 | --- | --- | --- | --- | --- |
 | tenancy_law | Main laws | Parlamento italiano; Gazzetta Ufficiale | [link](https://www.parlamento.it/parlam/leggi/98431l.htm) | [link](https://www.normattiva.it/eli/id/1978/07/29/078U0392/CONSOLIDATED) |
 | deposit | Maximum deposit | Gazzetta Ufficiale | [link](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=078U0392&art.dataPubblicazioneGazzetta=1978-07-29&art.flagTipoArticolo=0&art.idArticolo=11&art.idGruppo=1&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1) |  |
-| lease_term | Free-market lease term (4+4) | Parlamento italiano | [link](https://www.parlamento.it/parlam/leggi/98431l.htm) |  |
+| lease_term | Open-market lease term (4+4) | Parlamento italiano | [link](https://www.parlamento.it/parlam/leggi/98431l.htm) |  |
 | lease_term | Concertato (agreed-rent) lease option | Parlamento italiano | [link](https://www.parlamento.it/parlam/leggi/98431l.htm) |  |
 | termination | Landlord non-renewal at first expiry | Parlamento italiano | [link](https://www.parlamento.it/parlam/leggi/98431l.htm) |  |
 | rent_registration | Written, registered contract | Parlamento italiano | [link](https://www.parlamento.it/parlam/leggi/98431l.htm) |  |
