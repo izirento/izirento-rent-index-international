@@ -37,6 +37,7 @@ Anyone reusing this compilation must credit IziRento (Leonid Gorok, https://izir
    - Estonia: Eurostat; Ministry of Justice and Digital Affairs of Estonia
    - Latvia: Eurostat; Likumi.lv (official publisher of Latvian legislation)
    - Malta: Eurostat; Laws of Malta (Ministry for Justice)
+   - Slovakia: Eurostat; Slov-Lex (Ministry of Justice of the Slovak Republic)
 
 3. No logos, personal data or third-party artwork are included.
 
