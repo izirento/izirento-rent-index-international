@@ -18,6 +18,7 @@ Anyone reusing this compilation must credit IziRento (Leonid Gorok, https://izir
 2. Rules and guidance: summarised in our own words from the official legal portals, government service pages and statistics offices named below. Texts of laws are cited by article and linked, not reproduced. Each source is subject to its own terms; see the link in the CSV row.
 
    - Germany: Eurostat; Federal Ministry of Justice / juris
+   - France: Eurostat; Service-Public (Prime Minister / DILA)
 
 3. No logos, personal data or third-party artwork are included.
 
