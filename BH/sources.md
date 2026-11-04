@@ -7,8 +7,8 @@ Every row of `BH_rent_landlord_rules.csv` cites a primary source. Facts were rea
 | tenancy_law | Main law | Legislation and Legal Opinion Commission (Kingdom of Bahrain) | [link](https://www.slrb.gov.bh/uploads/K2714.pdf) |  |
 | contract_form | Written form and registration | Legislation and Legal Opinion Commission (Kingdom of Bahrain) | [link](https://www.slrb.gov.bh/uploads/K2714.pdf) |  |
 | contract_form | Duration if not agreed | Legislation and Legal Opinion Commission (Kingdom of Bahrain) | [link](https://www.slrb.gov.bh/uploads/K2714.pdf) |  |
-| rent_increase | Frequency and cap | Legislation and Legal Opinion Commission (Kingdom of Bahrain) | [link](https://www.slrb.gov.bh/uploads/K2714.pdf) | [link](https://resourcehub.bakermckenzie.com/en/resources/global-corporate-real-estate-guide/europe-middle-east-and-africa/bahrain/topics/leases) |
-| rent_increase | Notice of increase | Legislation and Legal Opinion Commission (Kingdom of Bahrain) | [link](https://www.slrb.gov.bh/uploads/K2714.pdf) | [link](https://resourcehub.bakermckenzie.com/en/resources/global-corporate-real-estate-guide/europe-middle-east-and-africa/bahrain/topics/leases) |
+| rent_increase | Frequency and cap | Legislation and Legal Opinion Commission (Kingdom of Bahrain) | [link](https://www.slrb.gov.bh/uploads/K2714.pdf) |  |
+| rent_increase | Notice of increase | Legislation and Legal Opinion Commission (Kingdom of Bahrain) | [link](https://www.slrb.gov.bh/uploads/K2714.pdf) |  |
 | termination | Tenant notice | Legislation and Legal Opinion Commission (Kingdom of Bahrain) | [link](https://www.slrb.gov.bh/uploads/K2714.pdf) |  |
 | termination | Renewal | Legislation and Legal Opinion Commission (Kingdom of Bahrain) | [link](https://www.slrb.gov.bh/uploads/K2714.pdf) |  |
 | termination | Death of party | Legislation and Legal Opinion Commission (Kingdom of Bahrain) | [link](https://www.slrb.gov.bh/uploads/K2714.pdf) |  |
