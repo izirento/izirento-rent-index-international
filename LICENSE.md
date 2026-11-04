@@ -31,6 +31,7 @@ Anyone reusing this compilation must credit IziRento (Leonid Gorok, https://izir
    - Czechia: Collection of Laws portal (Zákony pro lidi); Eurostat
    - Sweden: Eurostat; Swedish Parliament (Riksdagen)
    - Georgia: Legislative Herald of Georgia (Matsne)
+   - Uzbekistan: Lex.uz, National Database of Legislation of Uzbekistan
 
 3. No logos, personal data or third-party artwork are included.
 

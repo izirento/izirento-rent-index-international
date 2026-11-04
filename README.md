@@ -32,6 +32,7 @@ The data is provided as is, without any liability. We only collect and organise 
 | Czechia | EU | 9 | [`CZ/`](CZ/) |
 | Sweden | EU | 6 | [`SE/`](SE/) |
 | Georgia | CIS | 7 | [`GE/`](GE/) |
+| Uzbekistan | CIS | 5 | [`UZ/`](UZ/) |
 
 Dubai is the only UAE emirate covered, because rent law is set emirate by emirate.
 
