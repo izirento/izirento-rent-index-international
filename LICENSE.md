@@ -24,6 +24,7 @@ Anyone reusing this compilation must credit IziRento (Leonid Gorok, https://izir
    - Netherlands: Eurostat; Overheid.nl (Wettenbank); Rijksoverheid.nl
    - Poland: Eurostat; Polish Government Legislation Portal (ELI)
    - United Arab Emirates (Dubai): Dubai Legislation Portal; Dubai Legislation Portal (Supreme Legislation Committee); Dubai Legislation Portal; Dubai Land Department
+   - Kazakhstan: Adilet legal information system (Ministry of Justice of Kazakhstan)
 
 3. No logos, personal data or third-party artwork are included.
 
