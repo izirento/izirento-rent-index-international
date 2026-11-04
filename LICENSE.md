@@ -43,6 +43,7 @@ Anyone reusing this compilation must credit IziRento (Leonid Gorok, https://izir
    - Azerbaijan: Official Legal Acts Database of the Republic of Azerbaijan (e-qanun.az, Ministry of Justice)
    - Armenia: ARLIS - Legal Information System of Armenia (official text)
    - Slovenia: Eurostat; Ministry of Natural Resources and Spatial Planning of Slovenia (PIS spatial information portal)
+   - Portugal: Diário da República (consolidated legislation, Imprensa Nacional-Casa da Moeda); Eurostat; Portal da Habitação (IHRU, Government of Portugal)
 
 3. No logos, personal data or third-party artwork are included.
 
