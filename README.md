@@ -17,7 +17,7 @@ The data is provided as is, without any liability. We only collect and organise 
 - [izirento-eu-rent-index](https://github.com/izirento/izirento-eu-rent-index): rent price change for the 27 EU member states from Eurostat
 - [izirento-uk-rent-index](https://github.com/izirento/izirento-uk-rent-index): United Kingdom rent index by area ([page on izirento.com](https://izirento.com/en-gb/research/data/uk-rents-and-landlord-duties-index))
 
-## Country repositories (38)
+## Country repositories (47)
 
 | Country | Region | Repository | Facts (rows) |
 | --- | --- | --- | --- |
@@ -29,13 +29,16 @@ The data is provided as is, without any liability. We only collect and organise 
 | Belgium | EU | [izirento-belgium-rent-index](https://github.com/izirento/izirento-belgium-rent-index) | 22 |
 | Canada | North America | [izirento-canada-rent-index](https://github.com/izirento/izirento-canada-rent-index) | 18 |
 | Chile | South America | [izirento-chile-rent-index](https://github.com/izirento/izirento-chile-rent-index) | 9 |
+| Colombia | South America | [izirento-colombia-rent-index](https://github.com/izirento/izirento-colombia-rent-index) | 8 |
 | Czechia | EU | [izirento-czechia-rent-index](https://github.com/izirento/izirento-czechia-rent-index) | 9 |
 | Denmark | EU | [izirento-denmark-rent-index](https://github.com/izirento/izirento-denmark-rent-index) | 6 |
+| Ecuador | South America | [izirento-ecuador-rent-index](https://github.com/izirento/izirento-ecuador-rent-index) | 8 |
 | Estonia | EU | [izirento-estonia-rent-index](https://github.com/izirento/izirento-estonia-rent-index) | 7 |
 | Finland | EU | [izirento-finland-rent-index](https://github.com/izirento/izirento-finland-rent-index) | 7 |
 | France | EU | [izirento-france-rent-index](https://github.com/izirento/izirento-france-rent-index) | 11 |
 | Georgia | CIS | [izirento-georgia-rent-index](https://github.com/izirento/izirento-georgia-rent-index) | 7 |
 | Germany | EU | [izirento-germany-rent-index](https://github.com/izirento/izirento-germany-rent-index) | 11 |
+| Hong Kong | Asia | [izirento-hong-kong-rent-index](https://github.com/izirento/izirento-hong-kong-rent-index) | 8 |
 | Ireland | EU | [izirento-ireland-rent-index](https://github.com/izirento/izirento-ireland-rent-index) | 7 |
 | Italy | EU | [izirento-italy-rent-index](https://github.com/izirento/izirento-italy-rent-index) | 8 |
 | Japan | Asia | [izirento-japan-rent-index](https://github.com/izirento/izirento-japan-rent-index) | 9 |
@@ -47,6 +50,8 @@ The data is provided as is, without any liability. We only collect and organise 
 | Netherlands | EU | [izirento-netherlands-rent-index](https://github.com/izirento/izirento-netherlands-rent-index) | 9 |
 | New Zealand | Oceania | [izirento-new-zealand-rent-index](https://github.com/izirento/izirento-new-zealand-rent-index) | 8 |
 | Oman | Middle East | [izirento-oman-rent-index](https://github.com/izirento/izirento-oman-rent-index) | 8 |
+| Paraguay | South America | [izirento-paraguay-rent-index](https://github.com/izirento/izirento-paraguay-rent-index) | 8 |
+| Peru | South America | [izirento-peru-rent-index](https://github.com/izirento/izirento-peru-rent-index) | 7 |
 | Poland | EU | [izirento-poland-rent-index](https://github.com/izirento/izirento-poland-rent-index) | 8 |
 | Portugal | EU | [izirento-portugal-rent-index](https://github.com/izirento/izirento-portugal-rent-index) | 11 |
 | Qatar | Middle East | [izirento-qatar-rent-index](https://github.com/izirento/izirento-qatar-rent-index) | 12 |
@@ -57,8 +62,12 @@ The data is provided as is, without any liability. We only collect and organise 
 | South Korea | Asia | [izirento-south-korea-rent-index](https://github.com/izirento/izirento-south-korea-rent-index) | 8 |
 | Spain | EU | [izirento-spain-rent-index](https://github.com/izirento/izirento-spain-rent-index) | 8 |
 | Sweden | EU | [izirento-sweden-rent-index](https://github.com/izirento/izirento-sweden-rent-index) | 6 |
+| Taiwan | Asia | [izirento-taiwan-rent-index](https://github.com/izirento/izirento-taiwan-rent-index) | 9 |
+| Thailand | Asia | [izirento-thailand-rent-index](https://github.com/izirento/izirento-thailand-rent-index) | 5 |
 | United Arab Emirates (Dubai) | Middle East | [izirento-uae-rent-index](https://github.com/izirento/izirento-uae-rent-index) | 6 |
+| Uruguay | South America | [izirento-uruguay-rent-index](https://github.com/izirento/izirento-uruguay-rent-index) | 4 |
 | Uzbekistan | CIS | [izirento-uzbekistan-rent-index](https://github.com/izirento/izirento-uzbekistan-rent-index) | 5 |
+| Vietnam | Asia | [izirento-vietnam-rent-index](https://github.com/izirento/izirento-vietnam-rent-index) | 9 |
 
 Dubai is the only UAE emirate covered, because rent law is set emirate by emirate. For Qatar, the amendments of 2009 to 2026 have not been checked; the Qatar README says so.
 
@@ -83,13 +92,18 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 | Hungary | The official legal database (njt.hu) returned no text to automated requests, and the Civil Code lease chapters were not read. |
 | Cyprus | The Rent Control Law text on the official-law site (cylaw.org) could not be read in a usable form (the version obtained did not contain readable lease provisions). |
 | Brazil | The official consolidated text of the Tenant Law (Lei 8.245/1991) on planalto.gov.br answered with an access-denied page (a firewall), and the Senate and LexML copies returned no readable text. The block was not worked around. |
+| Bolivia | No official copy of the Civil Code lease chapter (Arts. 685-720) was readable: the Gaceta Oficial de Bolivia page timed out and returned a server error. Unofficial copies were not used. |
+| India | The official text of the Model Tenancy Act 2021 could not be read: the Ministry of Housing and Urban Affairs page loads its document through a script and showed no text, and only non-government copies were found. The Model Act is also not binding until a state adopts it; binding rules are in state rent laws, which were not read. |
+| Malaysia | No residential tenancy statute is in force: the Ministry of Housing and Local Government (KPKT) strategic plan 2026-2030 lists the Residential Tenancy Act as still to be drafted and gazetted in 2028, so no official rule on deposits, rent or notice was found to record. |
+| Philippines | The Rent Control Act of 2009 (RA 9653) on the Official Gazette timed out and the Philippine Information Agency page answered 403 (access denied, not worked around). Only a non-government copy of the Act was readable, and the current rent-cap resolution could not be read from an official page. |
+| Indonesia | The official regulations database (peraturan.bpk.go.id) answered 403 (access denied, not worked around), so no official text of the Civil Code lease provisions or a housing-lease rule was read. |
 
 ## Not yet covered
 
 - **Other EU member states:** None. Every EU member state is either a repository above or in the skipped list.
 - **Canada:** Quebec and the other provinces and territories (see the Canada repository).
 - **Mexico:** States other than Mexico City (see the Mexico repository).
-- **Rest of the world:** Being added in batches: Colombia, Peru and other South America, the Caribbean and island states, other Asia (India, Thailand, Malaysia and others), USA by state and Africa where official data exists.
+- **Rest of the world:** Not yet covered: Caribbean and island states, other Asia (for example China, Sri Lanka, Pakistan, Bangladesh, Cambodia), USA by state, Africa and Oceania beyond Australia and New Zealand, where official data exists. Countries read and skipped are in the table above.
 - **Middle East:** Other UAE emirates.
 
 New countries are added as separate repositories named `izirento-<country>-rent-index`.
