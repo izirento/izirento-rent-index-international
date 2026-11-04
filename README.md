@@ -17,13 +17,14 @@ The data is provided as is, without any liability. We only collect and organise 
 - [izirento-eu-rent-index](https://github.com/izirento/izirento-eu-rent-index): rent price change for the 27 EU member states from Eurostat
 - [izirento-uk-rent-index](https://github.com/izirento/izirento-uk-rent-index): United Kingdom rent index by area ([page on izirento.com](https://izirento.com/en-gb/research/data/uk-rents-and-landlord-duties-index))
 
-## Country repositories (28)
+## Country repositories (29)
 
 | Country | Region | Repository | Facts (rows) |
 | --- | --- | --- | --- |
 | Armenia | CIS | [izirento-armenia-rent-index](https://github.com/izirento/izirento-armenia-rent-index) | 9 |
 | Azerbaijan | CIS | [izirento-azerbaijan-rent-index](https://github.com/izirento/izirento-azerbaijan-rent-index) | 6 |
 | Bahrain | Middle East | [izirento-bahrain-rent-index](https://github.com/izirento/izirento-bahrain-rent-index) | 8 |
+| Belgium | EU | [izirento-belgium-rent-index](https://github.com/izirento/izirento-belgium-rent-index) | 22 |
 | Czechia | EU | [izirento-czechia-rent-index](https://github.com/izirento/izirento-czechia-rent-index) | 9 |
 | Denmark | EU | [izirento-denmark-rent-index](https://github.com/izirento/izirento-denmark-rent-index) | 6 |
 | Estonia | EU | [izirento-estonia-rent-index](https://github.com/izirento/izirento-estonia-rent-index) | 7 |
@@ -75,7 +76,7 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 
 ## Not yet covered
 
-- **Other EU member states:** Belgium (rent law is regional).
+- **Other EU member states:** None. Every EU member state is either a repository above or in the skipped list.
 - **Middle East:** Other UAE emirates.
 
 New countries are added as separate repositories named `izirento-<country>-rent-index`.
