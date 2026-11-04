@@ -23,7 +23,7 @@ Every row of `PT_rent_landlord_rules.csv` cites a primary source. Facts were rea
 - Fixed term: Civil Code (Código Civil), consolidated text, urban lease provisions (Arts. 1064-1113); text in Portuguese, the summary is ours.
 - Security and advance rent: Civil Code (Código Civil), consolidated text, urban lease provisions (Arts. 1064-1113); text in Portuguese, the summary is ours.
 - Default annual update: Civil Code (Código Civil), consolidated text, urban lease provisions (Arts. 1064-1113); text in Portuguese, the summary is ours.
-- Official coefficient for 2026: The table is published by IHRU on the Portal da Habitação; the 'free-rent' column was read, the column title is 'Habitação renda livre'.
+- Official coefficient for 2026: Table of coefficients published by IHRU on the Portal da Habitação; recent years show one value across all columns.
 - Tenant notice (fixed term): Civil Code (Código Civil), consolidated text, urban lease provisions (Arts. 1064-1113); text in Portuguese, the summary is ours.
 - Tenant notice (indefinite term): Civil Code (Código Civil), consolidated text, urban lease provisions (Arts. 1064-1113); text in Portuguese, the summary is ours.
 - Landlord grounds (indefinite term): Civil Code (Código Civil), consolidated text, urban lease provisions (Arts. 1064-1113); text in Portuguese, the summary is ours.
