@@ -17,7 +17,7 @@ The data is provided as is, without any liability. We only collect and organise 
 - [izirento-eu-rent-index](https://github.com/izirento/izirento-eu-rent-index): rent price change for the 27 EU member states from Eurostat
 - [izirento-uk-rent-index](https://github.com/izirento/izirento-uk-rent-index): United Kingdom rent index by area ([page on izirento.com](https://izirento.com/en-gb/research/data/uk-rents-and-landlord-duties-index))
 
-## Country repositories (57)
+## Country repositories (56)
 
 | Country | Region | Repository | Facts (rows) |
 | --- | --- | --- | --- |
@@ -61,7 +61,6 @@ The data is provided as is, without any liability. We only collect and organise 
 | Peru | South America | [izirento-peru-rent-index](https://github.com/izirento/izirento-peru-rent-index) | 7 |
 | Poland | EU | [izirento-poland-rent-index](https://github.com/izirento/izirento-poland-rent-index) | 8 |
 | Portugal | EU | [izirento-portugal-rent-index](https://github.com/izirento/izirento-portugal-rent-index) | 11 |
-| Qatar | Middle East | [izirento-qatar-rent-index](https://github.com/izirento/izirento-qatar-rent-index) | 12 |
 | Saudi Arabia | Middle East | [izirento-saudi-arabia-rent-index](https://github.com/izirento/izirento-saudi-arabia-rent-index) | 7 |
 | Singapore | Asia | [izirento-singapore-rent-index](https://github.com/izirento/izirento-singapore-rent-index) | 5 |
 | Slovakia | EU | [izirento-slovakia-rent-index](https://github.com/izirento/izirento-slovakia-rent-index) | 8 |
@@ -79,12 +78,14 @@ The data is provided as is, without any liability. We only collect and organise 
 | Uzbekistan | CIS | [izirento-uzbekistan-rent-index](https://github.com/izirento/izirento-uzbekistan-rent-index) | 5 |
 | Vietnam | Asia | [izirento-vietnam-rent-index](https://github.com/izirento/izirento-vietnam-rent-index) | 9 |
 
-Dubai is the only UAE emirate covered, because rent law is set emirate by emirate. For Qatar, the amendments of 2009 to 2026 have not been checked; the Qatar README says so.
+Dubai is the only UAE emirate covered, because rent law is set emirate by emirate.
+
 
 ## Countries skipped
 
 | Country | Reason |
 | --- | --- |
+| Qatar | The amendments to Law No. 4 of 2008 on the lease of real estate (2009 to 2026) could not be checked against an official consolidated text, so current values could not be verified. |
 | South Africa | The only official text on gov.za is the 1999 Government Gazette text of the Rental Housing Act 50 of 1999. The Rental Housing Amendment Acts 43 of 2007 and 35 of 2014 are not available there as a consolidated official text, so current values could not be verified. |
 | China | The national law database flk.npc.gov.cn is a script-only site whose search API answered "system error" (HTTP 500) to every query, and the NPC English pages for the Civil Code (npc.gov.cn) returned HTTP 500. No official text of the Civil Code lease chapter (Arts. 703-734) could be read. |
 | Sri Lanka | The official legal portal lawnet.gov.lk did not answer (connection timeout) on two attempts; no other official copy of the Rent Act No. 7 of 1972 was found. |
