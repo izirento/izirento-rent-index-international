@@ -4,6 +4,7 @@ Armenia,CIS,https://github.com/izirento/izirento-armenia-rent-index,9,2026-11-04
 Australia,Oceania,https://github.com/izirento/izirento-australia-rent-index,16,2026-11-04
 Azerbaijan,CIS,https://github.com/izirento/izirento-azerbaijan-rent-index,6,2026-11-04
 Bahrain,Middle East,https://github.com/izirento/izirento-bahrain-rent-index,8,2026-11-04
+Bangladesh,Asia,https://github.com/izirento/izirento-bangladesh-rent-index,10,2026-11-04
 Belgium,EU,https://github.com/izirento/izirento-belgium-rent-index,22,2026-11-04
 Brazil,South America,https://github.com/izirento/izirento-brazil-rent-index,12,2026-11-04
 Canada,North America,https://github.com/izirento/izirento-canada-rent-index,18,2026-11-04
@@ -51,6 +52,7 @@ Taiwan,Asia,https://github.com/izirento/izirento-taiwan-rent-index,9,2026-11-04
 Thailand,Asia,https://github.com/izirento/izirento-thailand-rent-index,5,2026-11-04
 Turkey,Europe / Middle East,https://github.com/izirento/izirento-turkey-rent-index,11,2026-11-04
 United Arab Emirates (Dubai),Middle East,https://github.com/izirento/izirento-uae-rent-index,6,2026-11-04
+"United States (Arizona, Virginia, Minnesota)",North America,https://github.com/izirento/izirento-usa-states-rent-index,9,2026-11-04
 United States,North America,https://github.com/izirento/izirento-usa-rent-index,20,2026-11-04
 Uruguay,South America,https://github.com/izirento/izirento-uruguay-rent-index,4,2026-11-04
 Uzbekistan,CIS,https://github.com/izirento/izirento-uzbekistan-rent-index,5,2026-11-04
