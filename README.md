@@ -17,7 +17,7 @@ The data is provided as is, without any liability. We only collect and organise 
 - [izirento-eu-rent-index](https://github.com/izirento/izirento-eu-rent-index): rent price change for the 27 EU member states from Eurostat
 - [izirento-uk-rent-index](https://github.com/izirento/izirento-uk-rent-index): United Kingdom rent index by area ([page on izirento.com](https://izirento.com/en-gb/research/data/uk-rents-and-landlord-duties-index))
 
-## Country repositories (60)
+## Country repositories (61)
 
 | Country | Region | Repository | Facts (rows) |
 | --- | --- | --- | --- |
@@ -48,6 +48,7 @@ The data is provided as is, without any liability. We only collect and organise 
 | Italy | EU | [izirento-italy-rent-index](https://github.com/izirento/izirento-italy-rent-index) | 8 |
 | Japan | Asia | [izirento-japan-rent-index](https://github.com/izirento/izirento-japan-rent-index) | 9 |
 | Kazakhstan | CIS | [izirento-kazakhstan-rent-index](https://github.com/izirento/izirento-kazakhstan-rent-index) | 8 |
+| Kosovo | Europe | [izirento-kosovo-rent-index](https://github.com/izirento/izirento-kosovo-rent-index) | 8 |
 | Latvia | EU | [izirento-latvia-rent-index](https://github.com/izirento/izirento-latvia-rent-index) | 7 |
 | Luxembourg | EU | [izirento-luxembourg-rent-index](https://github.com/izirento/izirento-luxembourg-rent-index) | 8 |
 | Malta | EU | [izirento-malta-rent-index](https://github.com/izirento/izirento-malta-rent-index) | 7 |
@@ -77,7 +78,7 @@ The data is provided as is, without any liability. We only collect and organise 
 | Turkey | Europe / Middle East | [izirento-turkey-rent-index](https://github.com/izirento/izirento-turkey-rent-index) | 11 |
 | United Arab Emirates (Dubai) | Middle East | [izirento-uae-rent-index](https://github.com/izirento/izirento-uae-rent-index) | 6 |
 | United States | North America | [izirento-usa-rent-index](https://github.com/izirento/izirento-usa-rent-index) | 20 |
-| United States (Arizona, Virginia, Minnesota, Iowa, Missouri, Maine) | North America | [izirento-usa-states-rent-index](https://github.com/izirento/izirento-usa-states-rent-index) | 19 |
+| United States (Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan) | North America | [izirento-usa-states-rent-index](https://github.com/izirento/izirento-usa-states-rent-index) | 27 |
 | Uruguay | South America | [izirento-uruguay-rent-index](https://github.com/izirento/izirento-uruguay-rent-index) | 4 |
 | Uzbekistan | CIS | [izirento-uzbekistan-rent-index](https://github.com/izirento/izirento-uzbekistan-rent-index) | 5 |
 | Vietnam | Asia | [izirento-vietnam-rent-index](https://github.com/izirento/izirento-vietnam-rent-index) | 9 |
@@ -89,6 +90,9 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 
 | Country | Reason |
 | --- | --- |
+| Nepal | The official English translation of the National Civil (Code) Act 2017 (Ministry of Law) predates the 2019 amendment; the current consolidated house-rent chapter could not be verified against an official text. |
+| Bosnia and Herzegovina | Tenancy rules are set separately by the entities (Federation, Republika Srpska) and Brčko District; no single official state-level text. |
+| Cuba | Housing lease rules are split between the Civil Code and the General Housing Law with later decrees; a current consolidated official text could not be verified. |
 | Qatar | The amendments to Law No. 4 of 2008 on the lease of real estate (2009 to 2026) could not be checked against an official consolidated text, so current values could not be verified. |
 | South Africa | The only official text on gov.za is the 1999 Government Gazette text of the Rental Housing Act 50 of 1999. The Rental Housing Amendment Acts 43 of 2007 and 35 of 2014 are not available there as a consolidated official text, so current values could not be verified. |
 | China | The national law database flk.npc.gov.cn is a script-only site whose search API answered "system error" (HTTP 500) to every query, and the NPC English pages for the Civil Code (npc.gov.cn) returned HTTP 500. No official text of the Civil Code lease chapter (Arts. 703-734) could be read. |
@@ -133,7 +137,7 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 - **Other EU member states:** None. Every EU member state is either a repository above or in the skipped list.
 - **Canada:** Quebec and the other provinces and territories (see the Canada repository).
 - **Mexico:** States other than Mexico City (see the Mexico repository).
-- **Rest of the world:** Not yet covered: other Caribbean and island states, other Asia, the US states beyond California, New York, Texas, Florida, Washington, Illinois, Arizona, Virginia, Minnesota, Iowa, Missouri and Maine, Africa beyond Morocco, Mauritius, Egypt, Nigeria (Lagos State only) and Ghana, and Oceania beyond Australia and New Zealand, where official data exists. Countries read and skipped are in the table above.
+- **Rest of the world:** Not yet covered: other Caribbean and island states, other Asia, the US states beyond California, New York, Texas, Florida, Washington, Illinois, Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland and Michigan, Africa beyond Morocco, Mauritius, Egypt, Nigeria (Lagos State only) and Ghana, and Oceania beyond Australia and New Zealand, where official data exists. Countries read and skipped are in the table above.
 - **Middle East:** Other UAE emirates.
 
 New countries are added as separate repositories named `izirento-<country>-rent-index`.
