@@ -17,7 +17,7 @@ The data is provided as is, without any liability. We only collect and organise 
 - [izirento-eu-rent-index](https://github.com/izirento/izirento-eu-rent-index): rent price change for the 27 EU member states from Eurostat
 - [izirento-uk-rent-index](https://github.com/izirento/izirento-uk-rent-index): United Kingdom rent index by area ([page on izirento.com](https://izirento.com/en-gb/research/data/uk-rents-and-landlord-duties-index))
 
-## Country repositories (71)
+## Country repositories (72)
 
 | Country | Region | Repository | Facts (rows) |
 | --- | --- | --- | --- |
@@ -84,6 +84,7 @@ The data is provided as is, without any liability. We only collect and organise 
 | Switzerland | Europe (non-EU) | [izirento-switzerland-rent-index](https://github.com/izirento/izirento-switzerland-rent-index) | 11 |
 | Taiwan | Asia | [izirento-taiwan-rent-index](https://github.com/izirento/izirento-taiwan-rent-index) | 9 |
 | Thailand | Asia | [izirento-thailand-rent-index](https://github.com/izirento/izirento-thailand-rent-index) | 5 |
+| Timor-Leste | Asia | [izirento-timor-leste-rent-index](https://github.com/izirento/izirento-timor-leste-rent-index) | 8 |
 | Turkey | Europe / Middle East | [izirento-turkey-rent-index](https://github.com/izirento/izirento-turkey-rent-index) | 11 |
 | United Arab Emirates (Dubai) | Middle East | [izirento-uae-rent-index](https://github.com/izirento/izirento-uae-rent-index) | 6 |
 | United States | North America | [izirento-usa-rent-index](https://github.com/izirento/izirento-usa-rent-index) | 20 |
@@ -100,6 +101,45 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 
 | Country | Reason |
 | --- | --- |
+| Gambia | Rent Act 2014 text not published officially; 2024 amendment only as a bill; Rent and Tenancy Bill 2025 to repeal it |
+| Togo | Décret 2022-001/PR: the official Journal Officiel PDF is no longer reachable (404); only third-party copies |
+| Mali | Housing-lease rules only in Décret 2016-0482 seen via FAOLEX, not an official government copy; conflict, instability or sanctions; skipped by project rule |
+| Madagascar | Ordonnance 62-100 (1962) found only on a private database; current status unclear |
+| Cameroon | No residential tenancy law found on official sites; only rent-to-own and urban planning laws |
+| Gabon | Only a COVID-19 rent decree found; no current official residential tenancy text |
+| Sierra Leone | Rent Restriction Act and Cap. 220 not found as an official current consolidated text |
+| Maldives | Residential Tenancy Act 21/2021 is official in the Gazette only in Dhivehi; the text could not be read reliably, no official English version |
+| Samoa | No dedicated residential tenancy act |
+| Tonga | No dedicated residential tenancy act |
+| Vanuatu | Only the Land Leases Act (Cap. 163); no residential tenancy act |
+| Laos | Only the general Property Law in the Official Gazette; no residential lease law |
+| Saint Vincent and the Grenadines | Rent Restriction Act not available as an official current text |
+| Liberia | No dedicated landlord and tenant statute found on official sites |
+| Djibouti | Official eJO text only covers commercial and industrial leases |
+| Congo (Republic) | Housing-lease text found only on a third-party database |
+| Mauritania | Residential lease governed by the general Civil Code; no dedicated official current residential tenancy text found |
+| Comoros | Residential lease governed by the general Civil Code; no dedicated official current residential tenancy text found |
+| Guinea | Residential lease governed by the general Civil Code; no dedicated official current residential tenancy text found |
+| Equatorial Guinea | Residential lease governed by the general Civil Code; no dedicated official current residential tenancy text found |
+| Guinea-Bissau | Residential lease governed by the general Civil Code; no dedicated official current residential tenancy text found |
+| Sao Tome and Principe | Residential lease governed by the general Civil Code; no dedicated official current residential tenancy text found |
+| Kiribati | No residential tenancy statute with a clear official current text found (Pacific; texts only on PacLII or none) |
+| Solomon Islands | No residential tenancy statute with a clear official current text found (Pacific; texts only on PacLII or none) |
+| Tuvalu | No residential tenancy statute with a clear official current text found (Pacific; texts only on PacLII or none) |
+| Nauru | No residential tenancy statute with a clear official current text found (Pacific; texts only on PacLII or none) |
+| Palau | No residential tenancy statute with a clear official current text found (Pacific; texts only on PacLII or none) |
+| Marshall Islands | No residential tenancy statute with a clear official current text found (Pacific; texts only on PacLII or none) |
+| Micronesia | No residential tenancy statute with a clear official current text found (Pacific; texts only on PacLII or none) |
+| Central African Republic | Conflict, instability or sanctions; skipped by project rule |
+| Chad | Conflict, instability or sanctions; skipped by project rule |
+| Congo (DR) | Conflict, instability or sanctions; skipped by project rule |
+| Burundi | Conflict, instability or sanctions; skipped by project rule |
+| Eritrea | Conflict, instability or sanctions; skipped by project rule; no published law gazette |
+| Haiti | Conflict, instability or sanctions; skipped by project rule |
+| Iraq | Conflict, instability or sanctions; skipped by project rule |
+| Niger | Conflict, instability or sanctions; skipped by project rule |
+| Palestine | Conflict, instability or sanctions; skipped by project rule |
+| Nicaragua | Conflict, instability or sanctions; skipped by project rule |
 | El Salvador | Ley de Inquilinato 1958: rent freeze tied to 1973 colón amounts, procedure articles repealed by D.L. 712/2008; current application unclear |
 | Honduras | Decreto 50-1966 amended and partly repealed (Decreto 131-98, Código Procesal Civil); no reliable official consolidated text |
 | Senegal | Rules split across COCC, Loi 2014-03 and Décret 2023-382; no official consolidated text found |
@@ -192,7 +232,7 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 - **Other EU member states:** None. Every EU member state is either a repository above or in the skipped list.
 - **Canada:** Quebec and the other provinces and territories (see the Canada repository).
 - **Mexico:** States other than Mexico City (see the Mexico repository).
-- **Rest of the world:** Not yet covered: Caribbean and island states other than the Dominican Republic and Suriname (South America), other Asia, the US states beyond California, New York, Texas, Florida, Washington, Illinois, Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio, Connecticut and Delaware, Africa beyond Morocco, Algeria, Benin, Cabo Verde, Côte d'Ivoire, Ethiopia, Mauritius, Egypt, Nigeria (Lagos State only), Ghana and Zambia, and Oceania beyond Australia and New Zealand, where official data exists. Countries read and skipped are in the table above.
+- **Rest of the world:** Not yet covered: Caribbean and island states other than the Dominican Republic, South America beyond the countries listed above (Suriname is now covered), other Asia beyond Timor-Leste, the US states beyond California, New York, Texas, Florida, Washington, Illinois, Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio, Connecticut and Delaware, Africa beyond Morocco, Algeria, Benin, Cabo Verde, Côte d'Ivoire, Ethiopia, Mauritius, Egypt, Nigeria (Lagos State only), Ghana and Zambia, and Oceania beyond Australia and New Zealand, where official data exists. Countries read and skipped are in the table above.
 - **Middle East:** Other UAE emirates.
 
 New countries are added as separate repositories named `izirento-<country>-rent-index`.
