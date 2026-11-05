@@ -144,7 +144,7 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 - **Other EU member states:** None. Every EU member state is either a repository above or in the skipped list.
 - **Canada:** Quebec and the other provinces and territories (see the Canada repository).
 - **Mexico:** States other than Mexico City (see the Mexico repository).
-- **Rest of the world:** Not yet covered: other Caribbean and island states, other Asia, the US states beyond California, New York, Texas, Florida, Washington, Illinois, Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut, Africa beyond Morocco, Mauritius, Egypt, Nigeria (Lagos State only) and Ghana, and Oceania beyond Australia and New Zealand, where official data exists. Countries read and skipped are in the table above.
+- **Rest of the world:** Not yet covered: other Caribbean and island states, other Asia, the US states beyond California, New York, Texas, Florida, Washington, Illinois, Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio and Connecticut, Africa beyond Morocco, Mauritius, Egypt, Nigeria (Lagos State only), Ghana and Zambia, and Oceania beyond Australia and New Zealand, where official data exists. Countries read and skipped are in the table above.
 - **Middle East:** Other UAE emirates.
 
 New countries are added as separate repositories named `izirento-<country>-rent-index`.
