@@ -17,7 +17,7 @@ The data is provided as is, without any liability. We only collect and organise 
 - [izirento-eu-rent-index](https://github.com/izirento/izirento-eu-rent-index): rent price change for the 27 EU member states from Eurostat
 - [izirento-uk-rent-index](https://github.com/izirento/izirento-uk-rent-index): United Kingdom rent index by area ([page on izirento.com](https://izirento.com/en-gb/research/data/uk-rents-and-landlord-duties-index))
 
-## Country repositories (61)
+## Country repositories (62)
 
 | Country | Region | Repository | Facts (rows) |
 | --- | --- | --- | --- |
@@ -82,6 +82,7 @@ The data is provided as is, without any liability. We only collect and organise 
 | Uruguay | South America | [izirento-uruguay-rent-index](https://github.com/izirento/izirento-uruguay-rent-index) | 4 |
 | Uzbekistan | CIS | [izirento-uzbekistan-rent-index](https://github.com/izirento/izirento-uzbekistan-rent-index) | 5 |
 | Vietnam | Asia | [izirento-vietnam-rent-index](https://github.com/izirento/izirento-vietnam-rent-index) | 9 |
+| Zambia | Africa | [izirento-zambia-rent-index](https://github.com/izirento/izirento-zambia-rent-index) | 12 |
 
 Dubai is the only UAE emirate covered, because rent law is set emirate by emirate.
 
@@ -90,6 +91,11 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 
 | Country | Reason |
 | --- | --- |
+| Panama | Law 93 of 1973 on leases has been amended many times and the official Gazette site gives no consolidated current text we could check. |
+| Namibia | The Rents Ordinance 13 of 1977 is not available on the official laws portal (laws.parliament.na lists bills only); we found only non-government copies. |
+| Tanzania | No official consolidated text of the residential tenancy rules could be found on a government site (parliament.go.tz returned 404). |
+| Botswana | The official laws portal elaws.gov.bw was unreachable (HTTP 500 / connection failure). |
+| Tunisia | The official legislation portal legislation.tn returned 'service temporarily unavailable' (HTTP 500). |
 | Montenegro | The official consolidated Law on Obligations on gov.me timed out from our network, and the 2026 amendment (Official Gazette 117/2026) could not be checked against an official text. |
 | Nepal | The official English translation of the National Civil (Code) Act 2017 (Ministry of Law) predates the 2019 amendment; the current consolidated house-rent chapter could not be verified against an official text. |
 | Bosnia and Herzegovina | Tenancy rules are set separately by the entities (Federation, Republika Srpska) and Brčko District; no single official state-level text. |
