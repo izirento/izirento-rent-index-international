@@ -1,5 +1,7 @@
 country,region,repository_url,facts_rows,checked_on
 Albania,Europe,https://github.com/izirento/izirento-albania-rent-index,10,2026-11-05
+Algeria,Africa,https://github.com/izirento/izirento-algeria-rent-index,9,2026-11-05
+Andorra,Europe,https://github.com/izirento/izirento-andorra-rent-index,7,2026-11-05
 Argentina,South America,https://github.com/izirento/izirento-argentina-rent-index,8,2026-11-04
 Armenia,CIS,https://github.com/izirento/izirento-armenia-rent-index,9,2026-11-04
 Australia,Oceania,https://github.com/izirento/izirento-australia-rent-index,16,2026-11-04
@@ -7,12 +9,14 @@ Azerbaijan,CIS,https://github.com/izirento/izirento-azerbaijan-rent-index,6,2026
 Bahrain,Middle East,https://github.com/izirento/izirento-bahrain-rent-index,8,2026-11-04
 Bangladesh,Asia,https://github.com/izirento/izirento-bangladesh-rent-index,10,2026-11-04
 Belgium,EU,https://github.com/izirento/izirento-belgium-rent-index,22,2026-11-04
+Benin,Africa,https://github.com/izirento/izirento-benin-rent-index,7,2026-11-05
 Brazil,South America,https://github.com/izirento/izirento-brazil-rent-index,12,2026-11-04
 Canada,North America,https://github.com/izirento/izirento-canada-rent-index,18,2026-11-04
 Chile,South America,https://github.com/izirento/izirento-chile-rent-index,9,2026-11-04
 Colombia,South America,https://github.com/izirento/izirento-colombia-rent-index,8,2026-11-04
 Czechia,EU,https://github.com/izirento/izirento-czechia-rent-index,9,2026-11-04
 Denmark,EU,https://github.com/izirento/izirento-denmark-rent-index,6,2026-11-04
+Dominican Republic,North America,https://github.com/izirento/izirento-dominican-republic-rent-index,9,2026-11-05
 Ecuador,South America,https://github.com/izirento/izirento-ecuador-rent-index,8,2026-11-04
 Egypt,Africa,https://github.com/izirento/izirento-egypt-rent-index,7,2026-11-04
 Estonia,EU,https://github.com/izirento/izirento-estonia-rent-index,7,2026-11-04

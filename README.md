@@ -17,11 +17,13 @@ The data is provided as is, without any liability. We only collect and organise 
 - [izirento-eu-rent-index](https://github.com/izirento/izirento-eu-rent-index): rent price change for the 27 EU member states from Eurostat
 - [izirento-uk-rent-index](https://github.com/izirento/izirento-uk-rent-index): United Kingdom rent index by area ([page on izirento.com](https://izirento.com/en-gb/research/data/uk-rents-and-landlord-duties-index))
 
-## Country repositories (63)
+## Country repositories (67)
 
 | Country | Region | Repository | Facts (rows) |
 | --- | --- | --- | --- |
 | Albania | Europe | [izirento-albania-rent-index](https://github.com/izirento/izirento-albania-rent-index) | 10 |
+| Algeria | Africa | [izirento-algeria-rent-index](https://github.com/izirento/izirento-algeria-rent-index) | 9 |
+| Andorra | Europe | [izirento-andorra-rent-index](https://github.com/izirento/izirento-andorra-rent-index) | 7 |
 | Argentina | South America | [izirento-argentina-rent-index](https://github.com/izirento/izirento-argentina-rent-index) | 8 |
 | Armenia | CIS | [izirento-armenia-rent-index](https://github.com/izirento/izirento-armenia-rent-index) | 9 |
 | Australia | Oceania | [izirento-australia-rent-index](https://github.com/izirento/izirento-australia-rent-index) | 16 |
@@ -29,12 +31,14 @@ The data is provided as is, without any liability. We only collect and organise 
 | Bahrain | Middle East | [izirento-bahrain-rent-index](https://github.com/izirento/izirento-bahrain-rent-index) | 8 |
 | Bangladesh | Asia | [izirento-bangladesh-rent-index](https://github.com/izirento/izirento-bangladesh-rent-index) | 10 |
 | Belgium | EU | [izirento-belgium-rent-index](https://github.com/izirento/izirento-belgium-rent-index) | 22 |
+| Benin | Africa | [izirento-benin-rent-index](https://github.com/izirento/izirento-benin-rent-index) | 7 |
 | Brazil | South America | [izirento-brazil-rent-index](https://github.com/izirento/izirento-brazil-rent-index) | 12 |
 | Canada | North America | [izirento-canada-rent-index](https://github.com/izirento/izirento-canada-rent-index) | 18 |
 | Chile | South America | [izirento-chile-rent-index](https://github.com/izirento/izirento-chile-rent-index) | 9 |
 | Colombia | South America | [izirento-colombia-rent-index](https://github.com/izirento/izirento-colombia-rent-index) | 8 |
 | Czechia | EU | [izirento-czechia-rent-index](https://github.com/izirento/izirento-czechia-rent-index) | 9 |
 | Denmark | EU | [izirento-denmark-rent-index](https://github.com/izirento/izirento-denmark-rent-index) | 6 |
+| Dominican Republic | North America | [izirento-dominican-republic-rent-index](https://github.com/izirento/izirento-dominican-republic-rent-index) | 9 |
 | Ecuador | South America | [izirento-ecuador-rent-index](https://github.com/izirento/izirento-ecuador-rent-index) | 8 |
 | Egypt | Africa | [izirento-egypt-rent-index](https://github.com/izirento/izirento-egypt-rent-index) | 7 |
 | Estonia | EU | [izirento-estonia-rent-index](https://github.com/izirento/izirento-estonia-rent-index) | 7 |
@@ -92,6 +96,17 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 
 | Country | Reason |
 | --- | --- |
+| San Marino | Only the original 1991 lease law (Law No. 26/1991) is published; no consolidated text to confirm the current wording. |
+| North Macedonia | Rules are split between the Law on Obligations and the Law on Housing; consolidated texts found only on municipal and agency sites, current wording not confirmed. |
+| Mongolia | Civil Code lease rules are on legalinfo.mn only in a script-rendered page; current text could not be read reliably. |
+| Guyana | Rent Restriction Act (Cap. 36:23, revision 2012) is a rent-assessment regime whose application thresholds could not be confirmed as current. |
+| Seychelles | Control of Rent and Tenancy Agreements Act found only on an unofficial mirror; no official current text located. |
+| Bhutan | Official Tenancy Act 2015 PDF on oag.gov.bt returns not found; only secondary copies, and later rules were issued. |
+| Burkina Faso | Law 103-2015/CNT found only on secondary or non-legislative sites; no official gazette copy located. |
+| Angola | Lease Law 26/15 found only on a private legal database; no official gazette copy located. |
+| Belize | Landlord and Tenant Act (Cap. 189) found only in an old revised edition on secondary sites; current text not confirmed. |
+| Antigua and Barbuda | Rent Restriction Act (Cap. 378) is due to be replaced by a new Landlord and Tenant Act announced in 2026; current law in flux. |
+| Brunei | No dedicated residential tenancy law; leases rest on contract and general law. |
 | North Korea | Not a target market; sources unreliable. |
 | Iran | Not a target market; sources unreliable. |
 | Syria | Not a target market; sources unreliable. |
@@ -157,7 +172,7 @@ Dubai is the only UAE emirate covered, because rent law is set emirate by emirat
 - **Other EU member states:** None. Every EU member state is either a repository above or in the skipped list.
 - **Canada:** Quebec and the other provinces and territories (see the Canada repository).
 - **Mexico:** States other than Mexico City (see the Mexico repository).
-- **Rest of the world:** Not yet covered: other Caribbean and island states, other Asia, the US states beyond California, New York, Texas, Florida, Washington, Illinois, Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio, Connecticut and Delaware, Africa beyond Morocco, Mauritius, Egypt, Nigeria (Lagos State only), Ghana and Zambia, and Oceania beyond Australia and New Zealand, where official data exists. Countries read and skipped are in the table above.
+- **Rest of the world:** Not yet covered: Caribbean and island states other than the Dominican Republic, other Asia, the US states beyond California, New York, Texas, Florida, Washington, Illinois, Arizona, Virginia, Minnesota, Iowa, Missouri, Maine, Vermont, Maryland, Michigan, Ohio, Connecticut and Delaware, Africa beyond Morocco, Algeria, Benin, Mauritius, Egypt, Nigeria (Lagos State only), Ghana and Zambia, and Oceania beyond Australia and New Zealand, where official data exists. Countries read and skipped are in the table above.
 - **Middle East:** Other UAE emirates.
 
 New countries are added as separate repositories named `izirento-<country>-rent-index`.
