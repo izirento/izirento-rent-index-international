@@ -1,4 +1,5 @@
 country,region,repository_url,facts_rows,checked_on
+Albania,Europe,https://github.com/izirento/izirento-albania-rent-index,10,2026-11-05
 Argentina,South America,https://github.com/izirento/izirento-argentina-rent-index,8,2026-11-04
 Armenia,CIS,https://github.com/izirento/izirento-armenia-rent-index,9,2026-11-04
 Australia,Oceania,https://github.com/izirento/izirento-australia-rent-index,16,2026-11-04
@@ -41,6 +42,7 @@ Peru,South America,https://github.com/izirento/izirento-peru-rent-index,7,2026-1
 Poland,EU,https://github.com/izirento/izirento-poland-rent-index,8,2026-11-04
 Portugal,EU,https://github.com/izirento/izirento-portugal-rent-index,11,2026-11-04
 Saudi Arabia,Middle East,https://github.com/izirento/izirento-saudi-arabia-rent-index,7,2026-11-04
+Serbia,Europe,https://github.com/izirento/izirento-serbia-rent-index,7,2026-11-05
 Singapore,Asia,https://github.com/izirento/izirento-singapore-rent-index,5,2026-11-04
 Slovakia,EU,https://github.com/izirento/izirento-slovakia-rent-index,8,2026-11-04
 Slovenia,EU,https://github.com/izirento/izirento-slovenia-rent-index,9,2026-11-04
@@ -52,7 +54,7 @@ Taiwan,Asia,https://github.com/izirento/izirento-taiwan-rent-index,9,2026-11-04
 Thailand,Asia,https://github.com/izirento/izirento-thailand-rent-index,5,2026-11-04
 Turkey,Europe / Middle East,https://github.com/izirento/izirento-turkey-rent-index,11,2026-11-04
 United Arab Emirates (Dubai),Middle East,https://github.com/izirento/izirento-uae-rent-index,6,2026-11-04
-"United States (Arizona, Virginia, Minnesota)",North America,https://github.com/izirento/izirento-usa-states-rent-index,9,2026-11-04
+"United States (Arizona, Virginia, Minnesota, Iowa, Missouri, Maine)",North America,https://github.com/izirento/izirento-usa-states-rent-index,19,2026-11-05
 United States,North America,https://github.com/izirento/izirento-usa-rent-index,20,2026-11-04
 Uruguay,South America,https://github.com/izirento/izirento-uruguay-rent-index,4,2026-11-04
 Uzbekistan,CIS,https://github.com/izirento/izirento-uzbekistan-rent-index,5,2026-11-04
